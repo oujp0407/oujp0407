@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @oujp0407
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-oujp0407/oujp0407 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-👀我感兴趣的是：前端
+-🌱我正在学习前端
+-💞️我正在寻求合作...资源
+-📫如何联系我1280273502 @qq.com
